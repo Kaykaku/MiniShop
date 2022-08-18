@@ -21,25 +21,27 @@
       <li>password: <code>123456</code></li>
   </ul>
   <h2>Review</h2>
-  <h3>Review account <code>user</code></h3>
-  <p>Some user account features</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161306673-f3083d8b-1b9b-4b98-8d75-e788b4f75bf9.gif">
-  <h3>1.Login & Register</h3>
-  <p>Includes login, register ,allows login and registration to pay on the web</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161306896-dc6c9dd9-577e-41bf-8f5a-145462ca0e7f.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161306905-1c30d0a9-dcb4-4a06-be49-e32e1291625d.png" width="50%">
+  <h3>Review <code>client side</code></h3>
+  <p>Some customer account features</p>
+  <img src="https://user-images.githubusercontent.com/90887094/185282463-e1e2411c-c669-461c-8884-568091033433.gif">
+  <h3>1.Login</h3>
+  <p>Includes login form and login by social network</p>
+  <img src="https://user-images.githubusercontent.com/90887094/185282721-4ca02b07-08dc-420e-9c24-b0f13845dc0a.png" width="50%">
   <h3>2.Home</h3>
-  <p>Home page includes menu , slider , random products , new products, popular products , latest news</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161307321-3e70bc40-2d45-4222-917e-8ac55168b5d1.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161307320-802c2c21-d606-4ca3-bc3b-c7cb04b04192.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161307315-b584f9a1-7790-41d8-83d4-9e2e237985c3.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161307303-e6ff7dcc-88e6-4c6a-88f1-2c45da47083a.png" width="50%">
+  <p>Home page includes menu , slider , random products , new products, popular products</p>
+  <img src="https://user-images.githubusercontent.com/90887094/185282939-a7343d9c-5a10-454b-abf0-375a4226b523.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185282982-121db0e0-ba6c-4d49-acd2-6e4e8fa6fe7e.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185283017-86255b4e-3b01-48b3-bec8-cab9f836064a.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185283023-a8764a55-d376-4b71-84a7-e10fb2c68c8b.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185283023-a8764a55-d376-4b71-84a7-e10fb2c68c8b.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185283045-a2e6ce1c-500c-4fb3-98fa-0b88622f3045.png" width="50%">
   <h3>3.Product Detail</h3>
   <p>Product details page including product information, add to cart and some other product suggestions</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161307572-edcc564c-ce56-4596-9c01-854d05bd7f0f.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185283319-eaae5c8f-56f6-41f1-9ef3-da393eef07e3.png" width="50%">
   <h3>4.All Products</h3>
-  <p>Page showing all products paginated, each page contains 12 products</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161307709-f23886ff-7245-4da6-8c7e-8650f3a7bfca.png" width="50%">
+  <p>Page showing all products paginated, each page contains 9 products</p>
+  <img src="https://user-images.githubusercontent.com/90887094/185283407-b86a5141-415e-469d-ba3e-7873f0d13422.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185283505-6e8c56f1-2204-4277-be48-62dff5e47fdc.png" width="50%">
   <h3>5.Filter : View By Category</h3>
   <p>The filter page allows displaying products corresponding to a custom user filter</p>
   <img src="https://user-images.githubusercontent.com/90887094/161308132-5e4fb09c-f7e1-4b74-a77e-2e5e3470594d.png" width="50%">
