@@ -33,39 +33,41 @@
   <img src="https://user-images.githubusercontent.com/90887094/185282982-121db0e0-ba6c-4d49-acd2-6e4e8fa6fe7e.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/185283017-86255b4e-3b01-48b3-bec8-cab9f836064a.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/185283023-a8764a55-d376-4b71-84a7-e10fb2c68c8b.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/185283023-a8764a55-d376-4b71-84a7-e10fb2c68c8b.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/185283045-a2e6ce1c-500c-4fb3-98fa-0b88622f3045.png" width="50%">
   <h3>3.Product Detail</h3>
   <p>Product details page including product information, add to cart and some other product suggestions</p>
   <img src="https://user-images.githubusercontent.com/90887094/185283319-eaae5c8f-56f6-41f1-9ef3-da393eef07e3.png" width="50%">
   <h3>4.All Products</h3>
   <p>Page showing all products paginated, each page contains 9 products</p>
-  <img src="https://user-images.githubusercontent.com/90887094/185283407-b86a5141-415e-469d-ba3e-7873f0d13422.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/185283505-6e8c56f1-2204-4277-be48-62dff5e47fdc.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185284892-c388e40a-8aa7-495a-8c6d-b9b4ff3d0b29.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185284906-bfcb4093-de3a-4168-b900-096f988a4006.png" width="50%">
   <h3>5.Filter : View By Category</h3>
   <p>The filter page allows displaying products corresponding to a custom user filter</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161308132-5e4fb09c-f7e1-4b74-a77e-2e5e3470594d.png" width="50%">
-  <h3>6.Filter : View By Brand</h3>
-  <p>The filter page allows displaying products corresponding to a custom user filter</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161308132-5e4fb09c-f7e1-4b74-a77e-2e5e3470594d.png" width="50%">
-  <h3>7.News</h3>
-  <p>News page includes all news paginated , each page 5 news , and details of each news</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161309135-afd711e9-5b8a-4e60-bb5f-05b698a3b6da.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161309155-ff2faec5-0307-4de7-93e9-7d9af9d7c3a4.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185284925-b387388f-0bfb-48ab-9109-ec29b34892b8.png" width="50%">
+  <h3>6.Sort :  By Name</h3>
+  <p>The sort page allows displaying products corresponding to a custom user sort</p>
+  <img src="https://user-images.githubusercontent.com/90887094/185284942-c44e4993-ed70-499c-a716-367f684f0487.png" width="50%">
+  <h3>7.Order</h3>
+  <p>For customer</p>
+  <img src="https://user-images.githubusercontent.com/90887094/185285645-364e48dc-b78f-455f-a445-7ba46f97e887.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285668-90c5fe11-26de-4a1b-8ed1-d168515da3eb.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285679-26a78e71-2a5f-4a8b-936e-3adf129ef2b9.png" width="50%">
   <h3>8.Cart</h3>
   <p>Cart is a place to store the products you intend to buy, displayed with the same header, customizable</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161309144-ed2f0e8a-703f-444f-aa5f-1d4e1480485f.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285191-520fd736-0e0a-4599-97b1-c2875cfc5a21.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285200-c5520f47-3d6f-4492-8e6c-ae927733ff64.png" width="50%">
   <h3>9.Contact Us</h3>
   <p>Contact page allows users to comment, give feedback to the administrator</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161309151-44f6a4b6-0276-4c99-a1fc-7c552feb4274.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285452-426b77a1-2221-439a-abe0-e706179f2c6f.png" width="50%">
   <h3>10.About Us</h3>
   <p>About us page about website</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161309153-60bc9164-f742-4f10-a365-8e4d65d3bfd8.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285429-432b58e4-fbe9-406d-a271-aea9977e88f6.png" width="50%">
   <h3>11.Check out</h3>
   <p>Checkout page is required to log in to pay, proceed with the payment process</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161315440-ae9b3ac3-d56d-4df9-8427-74138eb97ea2.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161315448-ef828574-aa11-4c55-9296-03a9fec16c35.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161315446-889904c6-1c87-4127-a12d-e971bfa0239b.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285210-74b089ec-c596-4c9e-8932-e2b0f936ab86.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285295-56ca53b5-fb8b-4fff-8a28-ad094dddbe94.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285312-a6a55138-0c6a-4867-9a76-dda6a4ec7914.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185285326-38be8b22-1fba-4196-ab27-3456d1b38eb8.png" width="50%">
   <h3>Review account <code>Admin</code></h3>
   <p>Some admin account features</p>
   <img src="https://user-images.githubusercontent.com/90887094/161322135-d5c70b0d-aab0-4b71-a32c-2143290fe193.gif">
