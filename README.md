@@ -52,6 +52,7 @@
   <img src="https://user-images.githubusercontent.com/90887094/185285645-364e48dc-b78f-455f-a445-7ba46f97e887.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/185285668-90c5fe11-26de-4a1b-8ed1-d168515da3eb.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/185285679-26a78e71-2a5f-4a8b-936e-3adf129ef2b9.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185286423-66d2a283-9c37-4558-a648-a7c814881aed.png" width="50%">
   <h3>8.Cart</h3>
   <p>Cart is a place to store the products you intend to buy, displayed with the same header, customizable</p>
   <img src="https://user-images.githubusercontent.com/90887094/185285191-520fd736-0e0a-4599-97b1-c2875cfc5a21.png" width="50%">
@@ -68,31 +69,30 @@
   <img src="https://user-images.githubusercontent.com/90887094/185285295-56ca53b5-fb8b-4fff-8a28-ad094dddbe94.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/185285312-a6a55138-0c6a-4867-9a76-dda6a4ec7914.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/185285326-38be8b22-1fba-4196-ab27-3456d1b38eb8.png" width="50%">
-  <h3>Review account <code>Admin</code></h3>
+  <h3>Review account <code>Director</code></h3>
   <p>Some admin account features</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161322135-d5c70b0d-aab0-4b71-a32c-2143290fe193.gif">
-  <h3>12.Account management</h3>
+  <img src="https://user-images.githubusercontent.com/90887094/185286297-49caf437-3f4d-46e3-be27-fc0ad31eb0c5.gif">
+  <h3>12.Account and Authority management</h3>
   <p>Allows accounts management including operations to add, edit, delete, search data</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161362542-29fded3f-b2a5-4fc6-b6cc-6daa320ec3c9.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161362544-aecc9048-cbd4-484f-bf22-02dcac2cef5a.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185286856-f595553b-6b80-480e-9466-d4a64681d084.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185286873-2046de30-3307-4d10-b9e6-9c0fffdf0ea0.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185286929-d6cc4562-cd83-4e44-98ae-f0ca9b934777.png" width="50%">
   <h3>13.Category management</h3>
   <p>Allows category management including operations to add, edit, delete, search data</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161362591-2b36411a-9ff4-48ab-bc29-391b68b85d01.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287081-e11ae61a-7018-439d-bbfb-5c7ea4c82a5d.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287088-ff178e52-dffd-4f57-9942-866ae85349b2.png" width="50%">
   <h3>14.Products management</h3>
   <p>Allows product management including operations to add, edit, delete, search data</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161362590-0669333b-0973-4696-9341-ef8622d1e29c.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161362586-e293b46e-9c06-46cf-bab1-b067c2651de4.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287106-c941256e-17b1-48cb-ae40-3aa0bcf0ecb4.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287122-37fa7fe2-2d1b-4f7e-838e-63d52a4f822b.png" width="50%">
   <h3>15.Orders management</h3>
   <p>Allows orders and order detail management including operations to add, edit, delete, search data</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161362680-e31ac27f-2bd4-4358-8157-bc421f2c05ba.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161362678-25324645-e537-4bb9-9fa3-ad7304dcc2de.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161362677-a450822c-76f5-4acf-9e64-f6e84a71cc4e.png" width="50%">
-  <h3>16.News management</h3>
-  <p>Allows news management including operations to add, edit, delete, search data</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161362703-5250e179-c201-489c-9233-fe59faa5b010.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161362707-fc9783f9-4937-4495-bfc0-9aa793967ee5.png" width="50%">
-  <h3>17.Statistics</h3>
+  <img src="" width="50%">
+  <img src="" width="50%">
+  <img src="" width="50%">
+  <img src="" width="50%">
+  <h3>16.Dashboard</h3>
   <p>Synthesize useful statistics such as revenue or best-selling products...</p>
-  <img src="https://user-images.githubusercontent.com/90887094/161362704-355c1996-b856-4a15-ad05-ce067b8ab861.png" width="50%">
+  <img src="" width="50%">
   <h1></h1>
   <h3>I hope you like our project. Thanks for visiting. </h3>
