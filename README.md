@@ -87,12 +87,17 @@
   <img src="https://user-images.githubusercontent.com/90887094/185287122-37fa7fe2-2d1b-4f7e-838e-63d52a4f822b.png" width="50%">
   <h3>15.Orders management</h3>
   <p>Allows orders and order detail management including operations to add, edit, delete, search data</p>
-  <img src="" width="50%">
-  <img src="" width="50%">
-  <img src="" width="50%">
-  <img src="" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287339-ba149675-d0dc-4f9b-bcd3-371f0d269e6a.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287362-a8fe3e58-e184-4d1a-8a90-8e4a53cab6fa.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287384-29fab091-6500-434e-9409-9fc704290383.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287404-a3b897d0-0046-42a8-a4dd-71169a626a8f.png" width="50%">
+   <img src="https://user-images.githubusercontent.com/90887094/185287413-ccd412e3-3464-4716-ac35-4bec2258c9a3.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287423-59739d00-89a9-428c-8f5c-131266528eac.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287433-d503cc34-5259-4763-8b50-05be87aee352.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287443-44818753-bbbb-4a09-b6f3-26c8423b3e4a.png" width="50%">
   <h3>16.Dashboard</h3>
   <p>Synthesize useful statistics such as revenue or best-selling products...</p>
-  <img src="" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287613-2805cf38-fecb-4f28-98f6-68d9431cde96.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/185287630-1370e92b-b05e-4324-a015-ceafeccd2e85.png" width="50%">
   <h1></h1>
   <h3>I hope you like our project. Thanks for visiting. </h3>
