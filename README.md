@@ -20,6 +20,8 @@
       <li>username: <code>customer</code></li>
       <li>password: <code>123456</code></li>
   </ul>
+  h2>Database</h2>
+  <img src="https://user-images.githubusercontent.com/90887094/185287850-202d8e3f-408d-4eb9-8431-92ced868fe87.png">
   <h2>Review</h2>
   <h3>Review <code>client side</code></h3>
   <p>Some customer account features</p>
